@@ -1,8 +1,5 @@
 package Lesson3.Developers;
 
-/**
- * Created by Sasha on 03.09.2016.
- */
 /*
 Написать своего наследника Developer. Добавить его в
 существующий проект.
